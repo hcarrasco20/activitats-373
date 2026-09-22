@@ -7,10 +7,15 @@ list-style: none;
 
 table, th, td {
   border: 1px solid;
+  text-align: center;
 }
 table {
   border-collapse: collapse;
 }
 th, td {
   padding: 10px;
+}
+
+.patio{
+  text-align: center;
 }
